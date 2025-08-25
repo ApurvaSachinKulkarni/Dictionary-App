@@ -22,9 +22,7 @@ A simple and lightweight web-based dictionary application built using HTML, CSS,
 - **CSS3** – Styling and layout  
 - **JavaScript (Fetch API)** – API integration and dynamic rendering
 
-**Screenshots**
 <img width="620" height="586" alt="image" src="https://github.com/user-attachments/assets/372413d3-476e-4b97-8527-5d3a1a6f1493" />
-
 
 **Installation**
 1. Clone this repository:
